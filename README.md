@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="https://media.giphy.com/media/1SvtUkj2T6122rQ7oX/giphy.gif" width="250"/>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="250"/>
 <p>iOS Developer at <a href="https://www.helpshift.com">Helpshift</a>, previously worked at <a href="https://www.athenahealth.com">athenahealth</a></p>
 
 [![Twitter: Sagar Dagdu](https://img.shields.io/twitter/follow/Sagar?style=social)](https://twitter.com/SDagdu)
