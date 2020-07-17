@@ -1,4 +1,3 @@
-<h2> Hi, I'm Sagar Dagdu! 👨🏻‍💻</h2>
 <img align="right" alt="GIF" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250"/>
 <p>iOS Developer at <a href="https://www.helpshift.com">Helpshift</a>, previously worked at <a href="https://www.athenahealth.com">athenahealth</a></p>
 
