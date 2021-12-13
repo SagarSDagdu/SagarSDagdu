@@ -28,5 +28,4 @@ sagar.currentlyExploring = { _ in
 ```
 ![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=SagarSDagdu&show_icons=true&hide_border=true)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">
 I love connecting with people so if you want to say hi, just reach out to me on Twitter, I'll be more than happy to chat!
