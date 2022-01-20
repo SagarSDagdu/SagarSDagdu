@@ -1,5 +1,5 @@
 <p>iOS Developer at a Stealth startup. 
-Previously contributed to the awesome <a href="https://github.com/GetStream/stream-chat-swift/pulls?q=is%3Apr+author%3ASagarSDagdu+">iOS Chat SDK</a> provided by <a href="https://getstream.io">Stream</a>.
+Previously contributed to the awesome <a href="https://github.com/GetStream/stream-chat-swift/pulls?q=is%3Apr+author%3ASagarSDagdu+">iOS Chat SDK</a> developed at <a href="https://getstream.io">Stream</a>.
 Also worked as a Senior iOS SDK developer at <a href="https://www.helpshift.com">Helpshift</a> contributing to their support SDK which is installed on more than ~2B devices.
 Worked as an iOS developer at <a href="https://www.athenahealth.com">athenahealth</a></p>
 
