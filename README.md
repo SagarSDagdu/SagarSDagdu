@@ -26,6 +26,9 @@ sagar.currentlyExploring = { _ in
   return ["SwiftUI", "Functional Programming"]
 }
 ```
+
+<!---
 ![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=SagarSDagdu&show_icons=true&hide_border=true)
+-->
 
 I love connecting with people so if you want to say hi, just reach out to me on Twitter, I'll be more than happy to chat!
