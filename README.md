@@ -10,7 +10,7 @@ Previously:
 - Mobile Lead and iOS Engineer at [Fairmatic](https://fairmatic.com), building telematics and driving-safety SDKs.
 - Senior iOS SDK Engineer at [Stream](https://getstream.io), contributing to the [iOS Chat SDK](https://github.com/GetStream/stream-chat-swift/pulls?q=is%3Apr+author%3ASagarSDagdu+).
 - Senior iOS SDK Engineer at [Helpshift](https://www.helpshift.com), building a support SDK installed on ~2B devices.
-- iOS Developer at [athenahealth](https://www.athenahealth.com).
+- iOS Engineer at [athenahealth](https://www.athenahealth.com).
 
 **Open source:** contributions merged into [folly](https://github.com/facebook/folly/pulls?q=is%3Apr+author%3ASagarSDagdu), [GRDB.swift](https://github.com/groue/GRDB.swift/pulls?q=is%3Apr+author%3ASagarSDagdu), and [SQLite.swift](https://github.com/stephencelis/SQLite.swift/pulls?q=is%3Apr+author%3ASagarSDagdu), plus a dozen [merged PRs](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+author%3ASagarSDagdu+is%3Amerged) into a widely used Rust terminal.
 
