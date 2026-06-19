@@ -18,6 +18,7 @@ Building software professionally since 2015, with a few earlier roles before ath
 - [folly](https://github.com/facebook/folly/pulls?q=is%3Apr+author%3ASagarSDagdu): Facebook's C++ library
 
 **Tech:** Swift · SwiftUI · Objective-C · Python · TypeScript · Rust · Electron · Java
+
 **Education:** M.S. in Computer Science
 
 ---
