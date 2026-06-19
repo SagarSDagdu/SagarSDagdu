@@ -12,7 +12,7 @@ Previously:
 - Senior iOS SDK Engineer at [Helpshift](https://www.helpshift.com), building a support SDK installed on ~2B devices.
 - iOS Developer at [athenahealth](https://www.athenahealth.com).
 
-**Open source:** a dozen [merged PRs](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+author%3ASagarSDagdu+is%3Amerged) into a widely used Rust terminal, across rendering, theming, and CLI agents.
+**Open source:** contributions merged into [folly](https://github.com/facebook/folly), [GRDB.swift](https://github.com/groue/GRDB.swift), and [SQLite.swift](https://github.com/stephencelis/SQLite.swift), plus a dozen [merged PRs](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+author%3ASagarSDagdu+is%3Amerged) into a widely used Rust terminal.
 
 **Tech:** Swift · SwiftUI · Objective-C · Python · TypeScript · Rust · Electron · Java
 **Education:** M.S. in Computer Science
