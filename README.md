@@ -1,34 +1,18 @@
-<p>iOS Developer at <a href="https://fairmatic.com">Fairmatic</a>.
-Previously contributed to the awesome <a href="https://github.com/GetStream/stream-chat-swift/pulls?q=is%3Apr+author%3ASagarSDagdu+">iOS Chat SDK</a> developed at <a href="https://getstream.io">Stream</a>.
-Also worked as a Senior iOS SDK developer at <a href="https://www.helpshift.com">Helpshift</a> contributing to their support SDK which is installed on more than ~2B devices.
-Worked as an iOS developer at <a href="https://www.athenahealth.com">athenahealth</a></p>
+### Hi, I'm Sagar 👋
 
-[![Twitter: Sagar Dagdu](https://img.shields.io/twitter/follow/Sagar?style=social)](https://twitter.com/SDagdu)
-[![Linkedin: Sagar Dagdu](https://img.shields.io/badge/-sagardagdu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sagardagdu/)](https://www.linkedin.com/in/sagardagdu/)
-[![GitHub SagarSDagdu](https://img.shields.io/github/followers/SagarSDagdu?label=follow&style=social)](https://github.com/SagarSDagdu/)
-<br>
-<a href="https://stackoverflow.com/users/3825788/sagar-d"><img src="https://stackoverflow.com/users/flair/3825788.png" width="208" height="58" alt="profile for Sagar D at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Sagar D at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+Product engineer who works across the stack: backend, desktop, web, and mobile, plus the release pipelines in between. I started in iOS and still care most about clean architecture and APIs that age well.
 
+**Product Engineer** at [Littlebird](https://littlebird.ai).
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+Previously:
+- Mobile Lead and iOS Engineer at [Fairmatic](https://fairmatic.com), building telematics and driving-safety SDKs.
+- Senior iOS SDK Engineer at [Stream](https://getstream.io), contributing to the [iOS Chat SDK](https://github.com/GetStream/stream-chat-swift/pulls?q=is%3Apr+author%3ASagarSDagdu+).
+- Senior iOS SDK Engineer at [Helpshift](https://www.helpshift.com), building a support SDK installed on ~2B devices.
+- iOS Developer at [athenahealth](https://www.athenahealth.com).
 
-```swift
-let sagar = Developer()
-sagar.pronouns = [.he, .him]
-sagar.country = Countries.India //🇮🇳
-sagar.codingLanguages += ["Swift", "Objective C", "Java"]
-sagar.experiences = ["iOS", "Android"]
-sagar.setInterestAreas(areas: ["clean-code", "design-patterns", 
-                               "architectures", "programming-paradigms"])
-sagar.education = Masters(specialization: "Computer Science")
-sagar.hobbies = ["open-source 💻", "reading 📚", "riding 🏍", "movies 🍿"]
-sagar.currentlyExploring = { _ in
-  return ["SwiftUI", "Functional Programming"]
-}
-```
+**Tech:** Swift · SwiftUI · Objective-C · Python · TypeScript · Electron · Java
+**Education:** M.S. in Computer Science
 
-<!---
-![Sagar's github stats](https://github-readme-stats.vercel.app/api?username=SagarSDagdu&show_icons=true&hide_border=true)
--->
+---
 
-I love connecting with people so if you want to say hi, just reach out to me on Twitter, I'll be more than happy to chat!
+📫 [sagardagdu.com](https://sagardagdu.com) · [LinkedIn](https://www.linkedin.com/in/sagardagdu/) · [Twitter/X](https://twitter.com/SDagdu) · [Stack Overflow](https://stackoverflow.com/users/3825788/sagar-d)
