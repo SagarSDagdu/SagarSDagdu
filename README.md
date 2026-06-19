@@ -2,6 +2,8 @@
 
 Product engineer who works across the stack: backend, desktop, web, and mobile, plus the release pipelines in between. I started in iOS and still care most about clean architecture and APIs that age well.
 
+I work a lot with AI agents and care about doing it well: driving agents effectively, managing context carefully, and writing reusable skills so agents can standardize workflows across a team.
+
 **Product Engineer** at [Littlebird](https://littlebird.ai).
 
 Previously:
