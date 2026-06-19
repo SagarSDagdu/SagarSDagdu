@@ -12,7 +12,10 @@ Previously:
 
 Building software professionally since 2015, with a few earlier roles before athenahealth.
 
-**Open source:** contributions merged into [folly](https://github.com/facebook/folly/pulls?q=is%3Apr+author%3ASagarSDagdu), [GRDB.swift](https://github.com/groue/GRDB.swift/pulls?q=is%3Apr+author%3ASagarSDagdu), and [SQLite.swift](https://github.com/stephencelis/SQLite.swift/pulls?q=is%3Apr+author%3ASagarSDagdu), plus a dozen [merged PRs](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+author%3ASagarSDagdu+is%3Amerged) into a widely used Rust terminal.
+**Open source**
+- [Warp](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+author%3ASagarSDagdu+is%3Amerged): the Rust terminal, a dozen merged PRs across rendering, theming, and CLI agents
+- [SQLite.swift](https://github.com/stephencelis/SQLite.swift/pulls?q=is%3Apr+author%3ASagarSDagdu): Swift database library
+- [folly](https://github.com/facebook/folly/pulls?q=is%3Apr+author%3ASagarSDagdu): Facebook's C++ library
 
 **Tech:** Swift · SwiftUI · Objective-C · Python · TypeScript · Rust · Electron · Java
 **Education:** M.S. in Computer Science
