@@ -12,7 +12,7 @@ Previously:
 
 Building software professionally since 2015, with a few earlier roles before athenahealth.
 
-**Open source**
+**A Few notable Open source contributions**
 - [Warp](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+author%3ASagarSDagdu+is%3Amerged): the Rust terminal, a dozen merged PRs across rendering, theming, and CLI agents
 - [SQLite.swift](https://github.com/stephencelis/SQLite.swift/pulls?q=is%3Apr+author%3ASagarSDagdu): Swift database library
 - [folly](https://github.com/facebook/folly/pulls?q=is%3Apr+author%3ASagarSDagdu): Facebook's C++ library
