@@ -14,6 +14,7 @@ Building software professionally since 2015, with a few earlier roles before ath
 
 **A Few notable Open source contributions**
 - [Warp](https://github.com/warpdotdev/warp/pulls?q=is%3Apr+author%3ASagarSDagdu+is%3Amerged): the Rust terminal, a dozen merged PRs across rendering, theming, and CLI agents
+- [imsg](https://github.com/openclaw/imsg/pulls?q=is%3Apr+author%3ASagarSDagdu+is%3Amerged): [OpenClaw](https://github.com/openclaw)'s Swift CLI that lets agents send and receive iMessages, fixing typedstream/attributedBody parsing
 - [SQLite.swift](https://github.com/stephencelis/SQLite.swift/pulls?q=is%3Apr+author%3ASagarSDagdu): Swift database library
 - [folly](https://github.com/facebook/folly/pulls?q=is%3Apr+author%3ASagarSDagdu): Facebook's C++ library
 
